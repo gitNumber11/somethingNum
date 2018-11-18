@@ -1,9 +1,4 @@
-# Suhyeon Portfolio
+# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-
-## Preview
-
-[![Portfolio Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://gitnumber11.github.io/somethingNum/)
-
-**[View Live Preview](https://gitnumber11.github.io/somethingNum/)**
+[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
